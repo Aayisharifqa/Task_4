@@ -1,0 +1,22 @@
+<ol >
+        <li>fruits</li>
+           <ul>
+            <li>apple</li>
+            <li>orange</li>
+            <li>mango</li>
+           </ul>
+        <li>vegetables</li>
+           <ol type="i">
+            <li>carrot</li>
+            <li>beans</li>
+            <li>betrrot</li>
+           </ol>
+        <li>birds</li>
+            <ul type="square" >
+            <li>peacock</li>
+            <li>parrot</li>
+            <li>crow</li>
+            </ul>
+     </ol>
+    </body>
+</html>
